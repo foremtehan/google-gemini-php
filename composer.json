@@ -1,5 +1,5 @@
 {
-  "name": "google-gemini-php/laravel",
+  "name": "foremtehan/google-gemini-php",
   "description": "Google Gemini PHP for Laravel is a supercharged PHP API client that allows you to interact with the Google Gemini AI API",
   "keywords": ["laravel","php", "gemini", "sdk", "api", "client", "natural", "language", "processing"],
   "license": "MIT",
